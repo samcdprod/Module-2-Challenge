@@ -1,2 +1,2 @@
-# Module 1 Challenge
- BlockChain Web App
+# Module 2 Challenge
+Finding and paying Fintech workers using BlockChain Web App
